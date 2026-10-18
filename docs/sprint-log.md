@@ -22,6 +22,6 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 1. I finish the issue no 1 but with some difficulty however i managed to solved it
 
 ### Retrospective
-- What went well:
-- What was difficult:
-- What I will change next time:
+- What went well: issue 1
+- What was difficult: to merge file
+- What I will change next time: to check again my fault
