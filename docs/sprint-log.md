@@ -4,6 +4,7 @@
 
 ### Sprint goal
 [One sentence: what do you want to finish by the end of this lab?]
+By the end of this lab my user stories have acceptance criteria and my README shows the project structure.
 
 ### Sprint backlog
 | Issue | Task | Status |
